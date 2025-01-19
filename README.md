@@ -5,4 +5,4 @@ Aplicação Java para praticar os conceitos aprendidos na disciplina de Aspectos
 **Todos os testes estão na pasta Test.** 
 
 # Diagrama simplificado
-![State ](src/imgs/Diagram.png)
+![State ](src/imgs/diagram.png)
