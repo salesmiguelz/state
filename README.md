@@ -6,3 +6,4 @@ Aplicação Java para praticar os conceitos aprendidos na disciplina de Aspectos
 
 # Diagrama simplificado
 ![State ](src/imgs/diagram.png)
+![Sequência ](src/imgs/sequencia.png)
